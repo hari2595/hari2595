@@ -12,7 +12,7 @@ I’m Hariharan Sasidharan, a Big Data Solutions Architecture student based in T
 - Check out my projects:
 #### [My Projects](https://github.com/hari2595?tab=repositories)
 
--🌱 I’m currently learning Solidity, Etherium, Python.
+-🌱 I’m currently learning Solidity and Python.
 
 - 💞️ I’m looking to collaborate on Blockchain and ML projects.
 
