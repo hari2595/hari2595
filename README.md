@@ -1,5 +1,5 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=hari2595&color=FAC151)
-## 👋 Hello there,
+## 👋 Hello there
 
 I’m Hariharan Sasidharan, a Big Data Solutions Architecture student based in Toronto, Canada.
 
