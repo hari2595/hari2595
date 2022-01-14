@@ -9,17 +9,19 @@ I’m Hariharan Sasidharan, a Big Data Solutions Architecture student based in T
 
 ## What I'm upto:
 
-- Check out my projects:
-#### [My Projects](https://github.com/hari2595?tab=repositories)
 
--🌱 I’m currently learning Solidity and Python.
+- 🌱 I’m currently learning Solidity and Python.
 
 - 💞️ I’m looking to collaborate on Blockchain and ML projects.
+
+## Check out my projects:
+- [My Projects](https://github.com/hari2595?tab=repositories)
 
 ## 📫 How to reach me 
 
 - LinkedIn: [https://www.linkedin.com/in/hariharan-sasidharan-a64090170/][2]
 - Twitter: [https://twitter.com/insideharismind][3]
+- E-mail: [harisasi258@gmail.com][4]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -40,3 +42,4 @@ You can click the Preview link to take a look at your changes.
 
 [2]: https://www.linkedin.com/in/hariharan-sasidharan-a64090170/
 [3]: https://twitter.com/insideharismind
+[4]: harisasi258@gmail.com
