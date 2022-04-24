@@ -5,14 +5,14 @@ I’m Hariharan Sasidharan, a Big Data Solutions Architecture student based in T
 
 
 ## 👀 My Area of interest:
-- I’m interested in Blockchain Development fields like NFT development and Big Data fields like Data Analysis, Solutions Architecture.
+- I’m interested in Big Data fields like Data Analysis and Data engineering.
 
 ## What I'm upto:
 
 
-- 🌱 I’m currently learning Solidity and Python.
+- 🌱 I’m currently having fun with building data warehouses.
 
-- 💞️ I’m looking to collaborate on Blockchain and ML projects.
+- 💞️ I’m looking to collaborate on data engineering / architecture solution projects.
 
 ## Check out my projects:
 - [My Projects](https://github.com/hari2595?tab=repositories)
